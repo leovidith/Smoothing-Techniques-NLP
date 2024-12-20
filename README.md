@@ -1,4 +1,4 @@
-# N-gram Smoothing Techniques
+# Smoothing Techniques in NL
 
 ## Overview
 
